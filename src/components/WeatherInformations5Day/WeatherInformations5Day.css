@@ -3,3 +3,24 @@
    
 
 }
+.weather-list{
+    list-style: none;
+    padding: 2;
+    margin: 0;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.weather-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
