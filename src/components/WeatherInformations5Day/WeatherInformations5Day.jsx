@@ -6,7 +6,8 @@ function WeatherInformations5Day({ weather5Day }) {
 
   return (
     <div className='weather-container'>
-      <h1>cadeeee?</h1>
+      <h2>component aqui</h2>
+      {/* Adicione mais conteúdo aqui conforme necessário */}
     </div>
   )
 }

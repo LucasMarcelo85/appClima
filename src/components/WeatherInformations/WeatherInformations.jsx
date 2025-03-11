@@ -11,7 +11,21 @@ const weatherDescriptions = {
     "thunderstorm": "tempestade com trovões",
     "snow": "neve caindo",
     "mist": "névoa densa",
-    "overcast clouds": "céu completamente nublado"
+    "overcast clouds": "céu completamente nublado",
+    "light rain": "chuva leve",
+    "moderate rain": "chuva moderada",
+    "heavy intensity rain": "chuva intensa",
+    "light snow": "neve leve",
+    "heavy snow": "neve intensa",
+    "light intensity drizzle": "garoa leve",
+    "drizzle": "garoa",
+    "heavy intensity drizzle": "garoa intensa",
+    "thunderstorm with light rain": "tempestade com chuva leve",
+    "thunderstorm with rain": "tempestade com chuva",
+    "thunderstorm with heavy rain": "tempestade com chuva intensa",
+    "thunderstorm with light drizzle": "tempestade com garoa leve",
+    "thunderstorm with drizzle": "tempestade com garoa",
+    "thunderstorm with heavy drizzle": "tempestade com garoa intensa"
 }
 
 function WeatherInformations({ weather }) {
